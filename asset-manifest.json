@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Talk_A_Tive/static/css/main.7e5d46ca.css",
+    "main.js": "/Talk_A_Tive/static/js/main.801f244f.js",
+    "static/media/bg.avif": "/Talk_A_Tive/static/media/bg.a1311f32537b7183a9af.avif",
+    "index.html": "/Talk_A_Tive/index.html",
+    "main.7e5d46ca.css.map": "/Talk_A_Tive/static/css/main.7e5d46ca.css.map",
+    "main.801f244f.js.map": "/Talk_A_Tive/static/js/main.801f244f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e5d46ca.css",
+    "static/js/main.801f244f.js"
+  ]
+}
